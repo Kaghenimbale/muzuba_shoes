@@ -1,0 +1,33 @@
+.navbar {
+  background: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.8rem;
+}
+
+.icon {
+  font-size: 1.5rem;
+  color: white;
+}
+
+.logo h2 {
+  color: white;
+  font-weight: 900;
+}
+
+.logo h2 span {
+  color: #cc0201;
+}
+
+.left-side {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.right-side {
+  display: flex;
+  gap: 0.5rem;
+}
