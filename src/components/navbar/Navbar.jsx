@@ -8,9 +8,7 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <div className="left-side">
-        <div className="menu">
-          <AiOutlineMenu className="icon" />
-        </div>
+        <AiOutlineMenu className="icon" />
         <div className="logo">
           <h2>
             MUZUBA<span>SHOES.</span>
