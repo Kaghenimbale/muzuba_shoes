@@ -1,0 +1,39 @@
+.header {
+  background: black;
+  color: white;
+  padding: 0.5rem;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.description h2 {
+  font-weight: bold;
+}
+
+.description p {
+  font-size: 1rem;
+  line-height: 1.8;
+}
+
+.btn {
+  padding: 0.8rem 3rem;
+  border: none;
+  width: fit-content;
+  background: red;
+  color: white;
+  font-size: 1rem;
+  border-radius: 10px;
+}
+
+.description span {
+  color: red;
+}
+
+.image img {
+  width: 100%;
+  height: auto;
+}

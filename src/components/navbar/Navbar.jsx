@@ -13,7 +13,7 @@ const Navbar = () => {
         </div>
         <div className="logo">
           <h2>
-            MZB<span>SHOES.</span>
+            MUZUBA<span>SHOES.</span>
           </h2>
         </div>
       </div>
