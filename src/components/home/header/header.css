@@ -1,9 +1,10 @@
 .header {
   background: black;
   color: white;
-  padding: 0.5rem;
+  padding: 1rem;
   margin-bottom: 2rem;
   padding-top: 5rem;
+  padding-bottom: 2rem;
 }
 
 .description {

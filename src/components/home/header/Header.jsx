@@ -1,4 +1,4 @@
-import shoes from '../../../public/shoes.webp';
+import shoes from '/shoes.webp';
 import './header.css';
 
 const Header = () => {

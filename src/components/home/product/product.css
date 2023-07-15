@@ -1,0 +1,18 @@
+.product {
+  margin: 3rem 0;
+}
+
+.advertisement {
+  background-image: url(/public/1_5.webp);
+  background-size: cover;
+  width: 90vw;
+  height: 30vh;
+  margin: 0 auto;
+  border-radius: 5px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding-right: 1rem;
+}
