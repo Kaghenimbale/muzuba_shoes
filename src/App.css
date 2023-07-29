@@ -1,3 +1,7 @@
 :root {
   --red: #cc0201;
 }
+
+.container {
+  padding: 1rem;
+}

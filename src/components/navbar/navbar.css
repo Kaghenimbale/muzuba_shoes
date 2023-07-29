@@ -28,8 +28,8 @@
   color: white;
 }
 
-.logo h2 .icon,
-span {
+.logo .icon,
+.logo span {
   color: #cc0201;
 }
 
